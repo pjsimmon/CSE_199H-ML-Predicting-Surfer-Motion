@@ -1,15 +1,11 @@
 VIRB 00-12 Footage:
-(First Taped Surf Sesh for Ride ID: 15629) 
+(First Taped Surf Sesh) 
 
-0:20 FIN ON 
-	then walking on beach to water
-1:42 walking board through waves (board = flat, my feet on sand, small waves)
-2:37 PADDLING 
-	hop on board, start paddling (into waves, trying to get out into lineup)
-3:30 FLOATING 
-	stopped paddling, floating/sitting on board (inclination) 
-4:33 SYNC 
-	flip board upside down to sync with Smartfin
+0:20 FIN ON
+1:42 WALKING walking board through waves (board = flat, my feet on sand, small waves)
+2:37 PADDLING 	hop on board, start paddling (into waves, trying to get out into lineup)
+3:30 FLOATING 	stopped paddling, floating/sitting on board (inclination) 
+4:33 SYNC 	flip board upside down to sync with Smartfin
 ------------------
 4:59 flip surfboard right side up 
 5:09 FLOATING mount board, sitting/floating
@@ -52,11 +48,11 @@ VIRB 00-12 Footage:
 14:51 FLOATING (sitting in lineup, waves passing underneath) 
 15:22 PADDLING
 15:28 FLOATING
-16:46 paddling
-16:52 floating
-16:58 paddling
-17:08 floating
-17:40 paddling
+16:46 PADDLING
+16:52 FLOATING
+16:58 PADDLING
+17:08 FLOATING
+17:40 PADDLING
 17:45 SURFING
 17:54 WALKING
 18:09 PADDLING
@@ -83,7 +79,7 @@ VIRB 00-12 Footage:
 24:12 WALKING
 24:30 PADDLING
 24:51 FLOATING
-------25:01 is when video2 starts-------
+25:01 NEW
 0:09 PADDLING
 0:12 SURFING
 0:16 STEP OFF 
@@ -125,10 +121,3 @@ VIRB 00-12 Footage:
 <???????>
 9:30 CATCHING A WAVE IN (STOMACH SURFING) 
 9:58 END
- 
-
-
-
-
-
-
