@@ -1,0 +1,6 @@
+Filename: Footage3.txt
+Footage taken from:
+Date: 11/11/18
+Ride ID: 15686
+
+
