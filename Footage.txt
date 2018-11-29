@@ -5,9 +5,10 @@ VIRB 00-12 Footage:
 1:42 WALKING walking board through waves (board = flat, my feet on sand, small waves)
 2:37 PADDLING 	hop on board, start paddling (into waves, trying to get out into lineup)
 3:30 FLOATING 	stopped paddling, floating/sitting on board (inclination) 
-4:33 SYNC 	flip board upside down to sync with Smartfin
+4:33 SYNC START 	flip board upside down to sync with Smartfin
 ------------------
-4:59 flip surfboard right side up 
+4:59 SYNC OVER flip surfboard right side up 
+5:00 WALKING
 5:09 FLOATING mount board, sitting/floating
 6:17 PADDLING paddling for a wave
 6:25 FLOATING don't catch it, stop and turn around

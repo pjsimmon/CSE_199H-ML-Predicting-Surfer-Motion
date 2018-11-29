@@ -1,6 +1,39 @@
 Filename: Footage4.txt
-Footage taken from:
+Footage taken from: VIRB0017.MP4, VIRB0017-2.MP4
 Date: 11/11/18
 Ride ID: 15686
+
+00:00 turning fin on
+00:51 placing in water
+01:47 START SYNC, board placed upside down
+02:18 END SYNC
+02:19 walking in water
+02:45 push-off
+02:46 paddling into waves
+03:18 sit-up
+03:19 floating
+04:22 lay-down
+04:23 paddling for position
+04:28 sit-up
+04:29 floating
+05:27 turning to surfer's right
+05:31 lay-down
+05:32 paddling for a wave
+05:40 pop-up
+05:41 surfing
+05:49 step-off
+05:50 off-board
+05:55 pull-back leash
+05:57 walking in water
+05:58 turning to surfer's right
+06:03 walking in water
+06:17 push-off
+06:18 paddling into waves
+07:16 sit-up
+07:17 floating
+
+
+
+
 
 
