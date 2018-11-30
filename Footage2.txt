@@ -139,7 +139,7 @@ Ride ID: 15669
 24:50 lay-down
 24:51 paddling into waves
 24:55 floating
-25:01 END OF FILM, START NEW
+25:01 new 
 01:14 lay-down
 01:15 paddling into waves
 01:20 sit-up

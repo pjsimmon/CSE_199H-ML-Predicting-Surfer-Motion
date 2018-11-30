@@ -6,7 +6,6 @@ VIRB 00-12 Footage:
 2:37 PADDLING 	hop on board, start paddling (into waves, trying to get out into lineup)
 3:30 FLOATING 	stopped paddling, floating/sitting on board (inclination) 
 4:33 SYNC START 	flip board upside down to sync with Smartfin
-------------------
 4:59 SYNC OVER flip surfboard right side up 
 5:00 WALKING
 5:09 FLOATING mount board, sitting/floating
@@ -18,7 +17,7 @@ VIRB 00-12 Footage:
 7:48 FLOATING didn't cath 
 8:02 PADDLING for a wave
 8:05 SURFING 
-???? UNKNOWN (camera flipped down, maybe wipeout) 
+8:06 UNKNOWN (camera flipped down, maybe wipeout) 
 8:35 WALKING 
 8:40 PADDLING back into the lineup through waves
 9:18 FLOATING in lineup 
@@ -35,7 +34,7 @@ VIRB 00-12 Footage:
 12:10 PADDLING
 12:15 FLOATING
 12:39 PADDLING
-	12:43-12:44 POP-UP
+12:43 POP-UP
 12:44 SURFING
 12:45 WIPEOUT
 12:55 WALKING
@@ -119,6 +118,7 @@ VIRB 00-12 Footage:
 8:20 FLOATING
 9:21 PADDLING
 9:26 SURFING
-<???????>
+9:27 UNKNOWN
+9:28 END SURF SESSION 
 9:30 CATCHING A WAVE IN (STOMACH SURFING) 
-9:58 END
+9:58 END FILM
