@@ -1,0 +1,35 @@
+1. Try logistic regression: forget about time, treat everything
+independently. Features x and label y. 
+Feature engineering without having to worry about more complex
+models. 
+Try "binning" on model: turns 3d xyz into binary 3 axis to 8 boxes.
+
+
+2. Try more complex/other classifers to see if any work significantly
+better (doesn't really matter which just see what's best).
+SVMs
+MLPs
+
+
+3. Try a windowed classifer: window of several adjacent features
+to predict one y-label (looking at x value and x-1, x-2...) 
+
+3. Pre-processing: smooth x
+4. Post-processing :smooth y - bc you know that y isn't going to change 
+value in between 0.1 seconds or something
+
+5. Markov Chain: HMM 
+
+Most complex: 
+6. recurrent neural networks (RNN) 
+LSTM: Long Short Term Memory
+or Sequence to sequence models 
+
+Can talk to Jianmo Ni 
+Seq2Seq A
+
+
+Looking at Bias in ML: 
+Disparate Learning Process (DLP) 
+
+
