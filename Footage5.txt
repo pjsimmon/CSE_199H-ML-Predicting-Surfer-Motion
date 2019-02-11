@@ -1,0 +1,10 @@
+Filename: Footage5.txt
+Footage taken from: VIRB0021,22,22-2,22-3.MP4
+Date: 02/09/19
+Ride ID: -----
+Description: Rachelle's first surf sesh. Video stopped recording 
+correctly after 10 mins and then continued again on its own. 
+Will scrap this surf sesh. 
+
+00:00 turning fin on
+
