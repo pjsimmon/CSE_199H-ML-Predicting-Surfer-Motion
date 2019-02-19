@@ -3,10 +3,7 @@ Footage taken from: VIRB0017.MP4, VIRB0017-2.MP4
 Date: 11/11/18
 Ride ID: 15686
 
-00:00 turning fin on
-00:51 placing in water
-01:47 START SYNC, board placed upside down
-02:18 END SYNC
+01:47 sync 
 02:19 walking in water
 02:45 push-off
 02:46 paddling into waves

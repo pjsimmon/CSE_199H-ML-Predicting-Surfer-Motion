@@ -6,7 +6,7 @@ Ride ID: 15692
 00:00 pushing board into water
 00:36 sync (flip board upside down to sync data/footage)
 01:07 flip board right side up
-01:08 walking
+01:08 walking in water
 01:12 push-off
 01:13 paddling into waves
 01:34 walking in water
@@ -387,7 +387,7 @@ Ride ID: 15692
 05:23 pop-up
 05:24 surfing
 05:26 off-board
-05:34 walking
+05:34 walking in water
 05:35 turning to surfer's left
 05:42 push-off
 05:43 paddling into waves
