@@ -3,8 +3,7 @@ Footage taken from: VIRB0016, VIRB0016-2, VIRB0016-3
 Date: 11/09/18
 Ride ID: 15692
 
-00:00 pushing board into water
-00:36 sync (flip board upside down to sync data/footage)
+00:36 sync 
 01:07 flip board right side up
 01:08 walking in water
 01:12 push-off
